@@ -1,0 +1,4 @@
+terraform-s3-module/.terraform/
+*.terraform/
+*.tfstate.*
+.terraform.lock.hcl
